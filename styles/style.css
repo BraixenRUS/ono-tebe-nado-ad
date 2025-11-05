@@ -76,7 +76,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 165px 50px 106px;
+    padding: 165px 23px 106px 50px;
     gap: 20px;
 }
 
@@ -94,25 +94,27 @@
 
 .text_left {
     padding-top: 7px;
+    padding-right: 20px;
 }
 
 .text_center {
     text-align: center;
-    padding-left: 27px;
-    padding-top: 26px;
+    padding-left: 7px;
+    padding-top: 15px;
     line-height: 125px;
 }
 
 .text_right {
     text-align: right;
     line-height: 120px;
+    padding-top: 14px;
 }
 
 .cover_description {
     display: flex;
     align-items: baseline;
     justify-content: space-evenly;
-    padding: 0px 50px 50px 50px;
+    padding: 10px 50px 50px 50px;
     gap: 107px;
 }
 
