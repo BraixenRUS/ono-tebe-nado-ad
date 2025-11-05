@@ -81,12 +81,6 @@
 }
 
 .cover_title span {
-    letter-spacing: 30px;
-    display: block;
-    line-height: 125px;
-}
-
-.cover_title span {
     font-size: 100px;
     font-weight: 700;
     line-height: 100%;
