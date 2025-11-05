@@ -10,7 +10,7 @@
     justify-self: center;
 }
 
-.menu_links {
+.header_menu_links {
     display: flex;
     gap: 32px;
     list-style-type: circle;
@@ -179,15 +179,15 @@
     background-position: center;
 }
 
-.card_about_cinema {
+.card_first {
     background-image: url(./../images/card-lot-01.jpg);
 }
 
-.card_about_book {
+.card_second {
     background-image: url(./../images/card-lot-02.jpg);
 }
 
-.card_about_picture {
+.card_third {
     background-image: url(./../images/card-lot-03.jpg);
 }
 
@@ -323,4 +323,3 @@
     display: flex;
     gap: 48px;
 }
-/* место для вашего кода */
